@@ -1,6 +1,6 @@
 # Ярка — агрегатор городских событий в Ярославле
 
-Про идеологию и суть проекта можешь почитать тут: https://karych.ru/yarka
+**Про идеологию и суть проекта можешь почитать тут: https://karych.ru/yarka**
 
 <p align="center"><img src="https://user-images.githubusercontent.com/62261985/184511886-ca1f7712-a1cd-4015-8afb-3e0ea1edc10f.png" alt="drawing" width="400"/></p>
 
